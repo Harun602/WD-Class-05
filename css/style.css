@@ -1,0 +1,33 @@
+
+div{
+    width:50%;
+    background: rgb(202, 202, 202);
+}
+p{
+    width: 50%;
+    text-align: justify;
+    font-weight: 900;
+    text-transform: uppercase;
+}
+
+
+h4{
+    font-size: 50px;
+    
+  /*  margin: 100px 50px 30px 60px;  
+      margin: 100px 200px;
+      margin: 10px;
+  */
+
+  margin-left: 100px;
+  background: red;
+   
+  
+}
+
+h5{
+    font-size: 50px;
+    padding: 50px;
+    background: red;
+    margin-left: 100px;
+}

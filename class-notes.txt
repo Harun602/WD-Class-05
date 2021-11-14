@@ -1,0 +1,42 @@
+css
+1. Inline CSS  - style(attr)
+2. Internal CSS- style (tag inside head)
+	style
+	
+3. External CSS
+
+<h1 style="">
+
+
+property:value;property:value;
+
+width:****; --- px/  %
+height:****;
+
+text-align:*****;    left|right|center|justify
+text-transform:****; uppercase|lowercase|capitalize
+text-decoration:****; underline|overline
+		      linethrough|none
+
+font-size:****;
+font-weight:***;     (100 - 900)-  (400 - 900)
+color:***;
+
+background:***;
+
+margin:***;
+padding:***;
+
+display:****;
+border:***;
+border-radius:****;
+
+Pore asle age paben
+
+
+
+
+
+
+
+
